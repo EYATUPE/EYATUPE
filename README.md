@@ -65,11 +65,10 @@
 ### :fire: My Stats :
 </div>
 <div>
-https://github-readme-streak-stats.herokuapp.com/?EYATUPE=EYATUPE
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EYATUPE&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=EYATUPE&hide_border=true&border_radius=15)](https://git.io/streak-stats)
 </div>
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?EYATUPE=EYATU&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EYATUPE&layout=compact&theme=vision-friendly-dark)](https://github.com/EYATUPE/github-readme-stats)
 </div>
 <div>
 ---
