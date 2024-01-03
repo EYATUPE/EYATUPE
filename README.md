@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **API Advanced & Webstack Monitoring**
 
-- 🌱 I’m currently learning **Software Engineering at ALX Africa**
+- 🌱 I’m a Certified **Software Engineering at ALX Africa** **Specialized in Backend Development**
 
 - 💬 Ask me about **Python, C , Javascript**
 
